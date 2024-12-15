@@ -1,1 +1,1 @@
-# minchu
+The language used is: C
